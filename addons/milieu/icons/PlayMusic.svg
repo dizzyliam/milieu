@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg6108"
+   sodipodi:docname="PlayMusic.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6112" />
+  <sodipodi:namedview
+     id="namedview6110"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="32"
+     inkscape:cx="0.96875"
+     inkscape:cy="8.390625"
+     inkscape:window-width="1824"
+     inkscape:window-height="960"
+     inkscape:window-x="48"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6108">
+    <inkscape:grid
+       type="xygrid"
+       id="grid16449" />
+  </sodipodi:namedview>
+  <path
+     sodipodi:type="star"
+     style="fill:#efe1a2;stroke-width:2;stroke-linecap:square;paint-order:markers fill stroke;fill-opacity:1"
+     id="path1649"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="3.545866"
+     sodipodi:cy="2.1031036"
+     sodipodi:r1="5.5898275"
+     sodipodi:r2="2.7949138"
+     sodipodi:arg1="0.025063024"
+     sodipodi:arg2="1.0722606"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 9.133938,2.243187 0.63051431,6.8724743 0.87314573,-2.8063503 Z"
+     inkscape:transform-center-x="-1.6435425"
+     inkscape:transform-center-y="-0.02154125"
+     transform="matrix(1.1881334,-0.01859876,0.02271874,1.0494759,2.1109143,5.8482002)" />
+</svg>
